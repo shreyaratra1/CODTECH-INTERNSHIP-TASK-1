@@ -22,9 +22,9 @@
 # 
 # Technologies Used:
 # Java Programming Language:
-Java is a widely used programming language known for its platform independence, object-oriented paradigm, and extensive standard library.
+# Java is a widely used programming language known for its platform independence, object-oriented paradigm, and extensive standard library.
 # Scanner Class (java.util.Scanner):
-The Scanner class is used to read user input from the console (System.in). It provides methods like nextDouble() and next() to read numeric and string inputs respectively.
+# The Scanner class is used to read user input from the console (System.in). It provides methods like nextDouble() and next() to read numeric and string inputs respectively.
 # Standard Input and Output Streams (System.in, System.out):
-System.in is used to accept user input from the console.
-System.out is used to display output to the console.
+# System.in is used to accept user input from the console.
+# System.out is used to display output to the console.
