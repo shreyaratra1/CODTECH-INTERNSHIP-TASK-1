@@ -28,3 +28,6 @@
 # Standard Input and Output Streams (System.in, System.out):
 # System.in is used to accept user input from the console.
 # System.out is used to display output to the console.
+# 
+# Output of Task-1
+![Screenshot (2)](https://github.com/user-attachments/assets/97b44adb-f780-419f-af3e-4ca568be9723)
